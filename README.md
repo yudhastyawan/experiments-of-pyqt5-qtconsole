@@ -1,0 +1,1 @@
+# experiments-of-pyqt5-qtconsole
